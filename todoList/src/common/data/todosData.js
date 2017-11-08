@@ -1,0 +1,22 @@
+export default[
+    {
+        id:Math.random(),
+        content:'react',
+        isActive:true
+    },
+    {
+        id:Math.random(),
+        content:'js',
+        isActive:true
+    },
+    {
+        id:Math.random(),
+        content:'jsscript',
+        isActive:true
+    },
+    {
+        id:Math.random(),
+        content:'html',
+        isActive:true
+    },
+]
